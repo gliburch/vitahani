@@ -1,1 +1,1 @@
-jekyll serve --config _config_general.yml
+bundle exec jekyll serve --config _config_general.yml

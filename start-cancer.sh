@@ -1,1 +1,1 @@
-jekyll serve --config _config_cancer.yml
+bundle exec jekyll serve --config _config_cancer.yml
